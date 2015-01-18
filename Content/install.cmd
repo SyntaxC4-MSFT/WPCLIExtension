@@ -1,3 +1,4 @@
+echo off
 REM Install WP-CLI
 
 cd Commands
