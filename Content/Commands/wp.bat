@@ -1,0 +1,1 @@
+@php "d:\home\SiteExtensions\WPCLIExtension\Commands\wp-cli.phar" %*
