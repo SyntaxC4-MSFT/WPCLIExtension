@@ -1,4 +1,4 @@
-# Install WP-CLI
+REM Install WP-CLI
 
 cd Commands
 
