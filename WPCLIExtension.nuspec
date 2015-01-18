@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
-<metadata>
-<id>WPCLIExtension</id>
-<title>WordPress CLI</title>
-<version>0.1.0</version>
-<authors>Cory Fowler</authors>
-<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
-<projectUrl>https://github.com/SyntaxC4-MSFT/WPCLIExtension</projectUrl>
-<requireLicenseAcceptance>false</requireLicenseAcceptance>
-<description>An extension which brings WordPress CLI support to Azure Websites</description>
-<iconUrl>https://www.siteextensions.net/Content/Images/packageDefaultIcon.png</iconUrl>
-<tags>php wordpress cli</tags>
-</metadata>
-<files>
-<file src="Content\**\*.*" target="Content" />
-</files>
+  <metadata>
+    <id>WPCLIExtension</id>
+    <title>WordPress CLI</title>
+    <version>0.1.3</version>
+    <authors>Cory Fowler</authors>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/SyntaxC4-MSFT/WPCLIExtension</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An extension which brings WordPress CLI support to Azure Websites</description>
+    <iconUrl>https://www.siteextensions.net/Content/Images/packageDefaultIcon.png</iconUrl>
+    <tags>php wordpress cli</tags>
+  </metadata>
+  <files>
+    <file src="Content\**\*.*" target="Content" />
+  </files>
 </package>
