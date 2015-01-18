@@ -9,7 +9,7 @@
 <projectUrl>https://github.com/SyntaxC4-MSFT/WPCLIExtension</projectUrl>
 <requireLicenseAcceptance>false</requireLicenseAcceptance>
 <description>An extension which brings WordPress CLI support to Azure Websites</description>
-<iconUrl></iconUrl>
+<iconUrl>https://www.siteextensions.net/Content/Images/packageDefaultIcon.png</iconUrl>
 <tags>php wordpress cli</tags>
 </metadata>
 <files>
