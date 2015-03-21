@@ -13,6 +13,7 @@
          <environmentVariables>
             <add name="PATH" value="%PATH%;d:\home\SiteExtensions\WPCLIExtension\Commands" />
             <add name="WP_CLI_CONFIG_PATH" value="%XDT_EXTENSIONPATH%\Hooks\config.yml" />
+            <add name="PHP_INI_SCAN_DIR" value="d:\home\site\ini" />
          </environmentVariables>
       </runtime>
    </system.webServer>
