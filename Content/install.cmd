@@ -1,4 +1,13 @@
 echo off
+
+IF NOT EXIST "D:\home\site\ini" (
+    mkdir "D:\home\site\ini"
+)
+
+IF NOT EXIST "D:\home\site\ext" (
+    mkdir "D:\home\site\ext"
+)
+
 REM Install WP-CLI
 
 cd Commands
