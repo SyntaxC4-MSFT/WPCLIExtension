@@ -9,7 +9,7 @@
      </sites>
    </system.applicationHost>
    <system.webServer>
-      <runtime xdt:Transform="Insert">
+      <runtime xdt:Transform="InsertIfMissing">
          <environmentVariables>
             <add name="PATH" value="%PATH%;d:\home\SiteExtensions\WPCLIExtension\Commands" />
             <add name="WP_CLI_CONFIG_PATH" value="%XDT_EXTENSIONPATH%\Hooks\config.yml" />
